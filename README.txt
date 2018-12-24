@@ -9,4 +9,4 @@ just like this
 
   qr.py input.txt qr/new_generation 5
 
-this will generate 5 qr from input.txt an save it in qr/new_generation folder
+this will generate 5 qr from input.txt and save it in qr/new_generation folder
